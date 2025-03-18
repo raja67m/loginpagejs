@@ -114,12 +114,12 @@ body{
    color:white;
    box-shadow: 0 0  10px #0099ff;
 }
-.userName-alert{
+.useralert{
    color: red;
    font-size: 10px;
    
 }
-.passWord-alert{
+.passwordalert{
    color: red;
    font-size: 10px;
    
