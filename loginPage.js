@@ -26,7 +26,7 @@ if(!passwordPattren.test(passWord)){
 }
 else{
   passwordError.innerHTML="";
-  
+  alert("Logined !")
  
 }
 
